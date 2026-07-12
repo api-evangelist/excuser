@@ -23,6 +23,8 @@ apis:
       - type: Documentation
         url: https://excuser.herokuapp.com/
 common:
+  - type: DomainSecurity
+    url: security/excuser-domain-security.yml
   - type: Website
     url: https://excuser.herokuapp.com/
   - type: PublicAPIsListing
