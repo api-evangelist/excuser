@@ -39,7 +39,6 @@ apis:
   - name: Excuser
     description: "Get random excuses for various situations"
     humanURL: https://excuser.herokuapp.com/
-    baseURL: https://excuser.herokuapp.com/
     tags:
       - Entertainment
     properties:
