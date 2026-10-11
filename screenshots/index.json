@@ -1,0 +1,11 @@
+[
+  {
+    "repo": "excuser",
+    "captured_at": "2026-10-11T185704",
+    "source_url": "https://excuser.herokuapp.com/",
+    "source_type": "Website",
+    "file": "excuser-2026-10-11T185704.png",
+    "bytes": 195244,
+    "capture": "playwright-local"
+  }
+]
